@@ -121,8 +121,8 @@ const Navbar = () => {
     >
       <div className="flex items-center justify-between max-w-8xl my-2 mx-4 relative">
         <a href="#hero" className="flex mx-6 items-center justify-center">
-          <span className="text-md">
-            <img src={logo} alt="logo" className="h-16 object-contain" />
+          <span className="text-2xl font-bold text-white">
+            Abhijit Das
           </span>
         </a>
         <button
