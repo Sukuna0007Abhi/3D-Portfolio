@@ -58,7 +58,7 @@ const About = () => {
         className="mt-10 px-6 py-3 text-white bg-gradient-to-r from-cyan-500 to-indigo-500 rounded-md shadow-md hover:bg-gradient-to-r hover:from-cyan-600 hover:to-indigo-600 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-opacity-50"
         onClick={() =>
           window.open(
-            "https://drive.google.com/file/d/10XPHVr59yiwne6PxRTE2CFjfIOZAs5b3/view?usp=sharing"
+            "https://drive.google.com/file/d/1kszJFWfZl9wH57j6CF3gQ2NvE_eLZPnt/view?usp=sharing"
           )
         }
       >
